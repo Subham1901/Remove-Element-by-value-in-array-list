@@ -2,7 +2,7 @@
 
 
 import java.util.*;
-public class Example{
+public class Test{
     public void find(int n,int a[],int index){
         for(int i =index-1; i < a.length -1; i++){
             a[i] = a[i + 1];
